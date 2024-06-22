@@ -2,6 +2,7 @@ import random
 letters = ['a','b', 'c', 'd', 'e','f','g','h','i','j', 'k', 'l', 'm', 'n', 'o', 'p', 'r', 's', 't', 'u', 'v','w','z','x','y','z']
 numbers =['1','2','3','4','5','6','7','8','9', '0']
 symbols = ['~','!','@','#','$','%','^','&','*']
+print("This is a program which generates random strong password according to your requirments :)")
 character = int(input ("enter the no of letter :"))
 num = int(input("enter the no of numbers : "))
 symb = int(input("Enter the number of symbols: "))
